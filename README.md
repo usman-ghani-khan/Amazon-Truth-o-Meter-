@@ -29,7 +29,7 @@ Before modeling, I visualized the relationship between cost and quality:
 
 ---
 
-### 3. Machine Learning (Linear Regression)
+### 3. Linear Regression
 
 I developed a **Multiple Linear Regression** model using **Scikit-Learn**:
 
